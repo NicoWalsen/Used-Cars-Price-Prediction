@@ -18,9 +18,7 @@ Model Training and Evaluation Process
 
 The notebook Used cars Price Prediction.ipynb includes the following steps:
 
-1) Data Exploration:
-
-Analyzing the dataset to understand its structure and characteristics.
+1) Data Exploration: Analyzing the dataset to understand its structure and characteristics.
 Visualizing distributions and relationships between features.
 Data Preprocessing:
 
