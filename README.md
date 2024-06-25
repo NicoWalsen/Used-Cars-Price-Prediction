@@ -1,6 +1,5 @@
 # Used Car Price Prediction
 
-Introduction
 This project aims to predict the prices of used cars based on various features such as the year of manufacture, the current ex-showroom price, kilometers driven, and more. The predictions are made using different machine learning models, and the performance of these models is evaluated to determine the best approach.
 
 Dataset Description
@@ -16,24 +15,25 @@ Seller_Type: Indicates whether the seller is a dealer or an individual.
 Transmission: Specifies if the car has a manual or automatic transmission.
 Owner: The number of previous owners.
 Model Training and Evaluation Process
+
 The notebook Used cars Price Prediction.ipynb includes the following steps:
 
-Data Exploration:
+1) Data Exploration:
 
 Analyzing the dataset to understand its structure and characteristics.
 Visualizing distributions and relationships between features.
 Data Preprocessing:
 
-Cleaning the dataset by handling missing values and outliers.
+2) Cleaning the dataset by handling missing values and outliers.
 Encoding categorical variables and scaling numerical features.
 Splitting the data into training and testing sets.
 Model Training:
 
-Training various machine learning models to predict car prices.
+3) Training various machine learning models to predict car prices.
 Models include Linear Regression, Decision Trees, Random Forest, and others.
 Model Evaluation:
 
-Evaluating the performance of the models using appropriate metrics.
+4) Evaluating the performance of the models using appropriate metrics.
 Metrics include Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R2).
 Results
 The performance of the trained models is evaluated based on the following metrics:
